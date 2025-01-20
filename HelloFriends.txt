@@ -1,1 +1,3 @@
 ECHO ist eingeschaltet (ON).
+
+Grüß dich Cleme alles Fit im Schritt?
